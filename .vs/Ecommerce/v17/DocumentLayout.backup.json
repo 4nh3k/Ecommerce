@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tien Anh\\Ecommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75A72242-6C51-4915-977E-FA85E326B2C6}|Ecommerce.Web\\Ecommerce.Web.csproj|c:\\users\\tien anh\\ecommerce\\ecommerce.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A72242-6C51-4915-977E-FA85E326B2C6}|Ecommerce.Web\\Ecommerce.Web.csproj|solutionrelative:ecommerce.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A72242-6C51-4915-977E-FA85E326B2C6}|Ecommerce.Web\\Ecommerce.Web.csproj|c:\\users\\tien anh\\ecommerce\\ecommerce.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75A72242-6C51-4915-977E-FA85E326B2C6}|Ecommerce.Web\\Ecommerce.Web.csproj|solutionrelative:ecommerce.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A72242-6C51-4915-977E-FA85E326B2C6}|Ecommerce.Web\\Ecommerce.Web.csproj|c:\\users\\tien anh\\ecommerce\\ecommerce.web\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A72242-6C51-4915-977E-FA85E326B2C6}|Ecommerce.Web\\Ecommerce.Web.csproj|solutionrelative:ecommerce.web\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DBC014-82C8-43A4-9E1C-5C824DF2AFE0}|Ecommerce.Service\\Ecommerce.Service.csproj|c:\\users\\tien anh\\ecommerce\\ecommerce.service\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0DBC014-82C8-43A4-9E1C-5C824DF2AFE0}|Ecommerce.Service\\Ecommerce.Service.csproj|solutionrelative:ecommerce.service\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FB646C-8FC2-4168-B3B2-FCED0AAFAA5D}|Ecommerce.Domain\\Ecommerce.Domain.csproj|c:\\users\\tien anh\\ecommerce\\ecommerce.domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93FB646C-8FC2-4168-B3B2-FCED0AAFAA5D}|Ecommerce.Domain\\Ecommerce.Domain.csproj|solutionrelative:ecommerce.domain\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DBC014-82C8-43A4-9E1C-5C824DF2AFE0}|Ecommerce.Service\\Ecommerce.Service.csproj|c:\\users\\tien anh\\ecommerce\\ecommerce.service\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0DBC014-82C8-43A4-9E1C-5C824DF2AFE0}|Ecommerce.Service\\Ecommerce.Service.csproj|solutionrelative:ecommerce.service\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F6D205A-3111-49A2-9DB8-D9A53F85BD53}|Ecommerce.DataAccess\\Ecommerce.DataAccess.csproj|c:\\users\\tien anh\\ecommerce\\ecommerce.dataaccess\\ecommercecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F6D205A-3111-49A2-9DB8-D9A53F85BD53}|Ecommerce.DataAccess\\Ecommerce.DataAccess.csproj|solutionrelative:ecommerce.dataaccess\\ecommercecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A72242-6C51-4915-977E-FA85E326B2C6}|Ecommerce.Web\\Ecommerce.Web.csproj|c:\\users\\tien anh\\ecommerce\\ecommerce.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75A72242-6C51-4915-977E-FA85E326B2C6}|Ecommerce.Web\\Ecommerce.Web.csproj|solutionrelative:ecommerce.web\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DBC014-82C8-43A4-9E1C-5C824DF2AFE0}|Ecommerce.Service\\Ecommerce.Service.csproj|c:\\users\\tien anh\\ecommerce\\ecommerce.service\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0DBC014-82C8-43A4-9E1C-5C824DF2AFE0}|Ecommerce.Service\\Ecommerce.Service.csproj|solutionrelative:ecommerce.service\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FB646C-8FC2-4168-B3B2-FCED0AAFAA5D}|Ecommerce.Domain\\Ecommerce.Domain.csproj|c:\\users\\tien anh\\ecommerce\\ecommerce.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93FB646C-8FC2-4168-B3B2-FCED0AAFAA5D}|Ecommerce.Domain\\Ecommerce.Domain.csproj|solutionrelative:ecommerce.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75A72242-6C51-4915-977E-FA85E326B2C6}|Ecommerce.Web\\Ecommerce.Web.csproj|c:\\users\\tien anh\\ecommerce\\ecommerce.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75A72242-6C51-4915-977E-FA85E326B2C6}|Ecommerce.Web\\Ecommerce.Web.csproj|solutionrelative:ecommerce.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DBC014-82C8-43A4-9E1C-5C824DF2AFE0}|Ecommerce.Service\\Ecommerce.Service.csproj|c:\\users\\tien anh\\ecommerce\\ecommerce.service\\services\\hashservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0DBC014-82C8-43A4-9E1C-5C824DF2AFE0}|Ecommerce.Service\\Ecommerce.Service.csproj|solutionrelative:ecommerce.service\\services\\hashservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DBC014-82C8-43A4-9E1C-5C824DF2AFE0}|Ecommerce.Service\\Ecommerce.Service.csproj|c:\\users\\tien anh\\ecommerce\\ecommerce.service\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0DBC014-82C8-43A4-9E1C-5C824DF2AFE0}|Ecommerce.Service\\Ecommerce.Service.csproj|solutionrelative:ecommerce.service\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0DBC014-82C8-43A4-9E1C-5C824DF2AFE0}|Ecommerce.Service\\Ecommerce.Service.csproj|c:\\users\\tien anh\\ecommerce\\ecommerce.service\\interfaces\\ihashservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0DBC014-82C8-43A4-9E1C-5C824DF2AFE0}|Ecommerce.Service\\Ecommerce.Service.csproj|solutionrelative:ecommerce.service\\interfaces\\ihashservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FB646C-8FC2-4168-B3B2-FCED0AAFAA5D}|Ecommerce.Domain\\Ecommerce.Domain.csproj|c:\\users\\tien anh\\ecommerce\\ecommerce.domain\\models\\jwtconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93FB646C-8FC2-4168-B3B2-FCED0AAFAA5D}|Ecommerce.Domain\\Ecommerce.Domain.csproj|solutionrelative:ecommerce.domain\\models\\jwtconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93FB646C-8FC2-4168-B3B2-FCED0AAFAA5D}|Ecommerce.Domain\\Ecommerce.Domain.csproj|c:\\users\\tien anh\\ecommerce\\ecommerce.domain\\models\\usercredentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93FB646C-8FC2-4168-B3B2-FCED0AAFAA5D}|Ecommerce.Domain\\Ecommerce.Domain.csproj|solutionrelative:ecommerce.domain\\models\\usercredentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Tien Anh\\Ecommerce\\Ecommerce.Web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Ecommerce.Web\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Tien Anh\\Ecommerce\\Ecommerce.Web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Ecommerce.Web\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-04T07:09:41.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Tien Anh\\Ecommerce\\Ecommerce.Domain\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Domain\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Tien Anh\\Ecommerce\\Ecommerce.Domain\\Models\\Product.cs",
+              "RelativeToolTip": "Ecommerce.Domain\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T06:37:26.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HashService.cs",
+              "DocumentMoniker": "C:\\Users\\Tien Anh\\Ecommerce\\Ecommerce.Service\\Services\\HashService.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Service\\Services\\HashService.cs",
+              "ToolTip": "C:\\Users\\Tien Anh\\Ecommerce\\Ecommerce.Service\\Services\\HashService.cs",
+              "RelativeToolTip": "Ecommerce.Service\\Services\\HashService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T06:15:18.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tien Anh\\Ecommerce\\Ecommerce.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\Tien Anh\\Ecommerce\\Ecommerce.Web\\Program.cs*",
+              "RelativeToolTip": "Ecommerce.Web\\Program.cs*",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAnwDEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T17:51:00.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Tien Anh\\Ecommerce\\Ecommerce.Service\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Service\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Tien Anh\\Ecommerce\\Ecommerce.Service\\Services\\ProductService.cs",
+              "RelativeToolTip": "Ecommerce.Service\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T17:50:06.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Tien Anh\\Ecommerce\\Ecommerce.Web\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Web\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Tien Anh\\Ecommerce\\Ecommerce.Web\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Ecommerce.Web\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T17:51:36.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EcommerceContext.cs",
+              "DocumentMoniker": "C:\\Users\\Tien Anh\\Ecommerce\\Ecommerce.DataAccess\\EcommerceContext.cs",
+              "RelativeDocumentMoniker": "Ecommerce.DataAccess\\EcommerceContext.cs",
+              "ToolTip": "C:\\Users\\Tien Anh\\Ecommerce\\Ecommerce.DataAccess\\EcommerceContext.cs",
+              "RelativeToolTip": "Ecommerce.DataAccess\\EcommerceContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T17:47:27.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Tien Anh\\Ecommerce\\Ecommerce.Web\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Web\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Tien Anh\\Ecommerce\\Ecommerce.Web\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Ecommerce.Web\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T06:20:11.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Tien Anh\\Ecommerce\\Ecommerce.Service\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Service\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Tien Anh\\Ecommerce\\Ecommerce.Service\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "Ecommerce.Service\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T17:49:41.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Tien Anh\\Ecommerce\\Ecommerce.Service\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Service\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Tien Anh\\Ecommerce\\Ecommerce.Service\\Services\\AuthService.cs",
+              "RelativeToolTip": "Ecommerce.Service\\Services\\AuthService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T06:15:42.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Tien Anh\\Ecommerce\\Ecommerce.Domain\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Domain\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Tien Anh\\Ecommerce\\Ecommerce.Domain\\Models\\User.cs",
+              "RelativeToolTip": "Ecommerce.Domain\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T06:38:02.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Tien Anh\\Ecommerce\\Ecommerce.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Ecommerce.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\Tien Anh\\Ecommerce\\Ecommerce.Web\\appsettings.json",
+              "RelativeToolTip": "Ecommerce.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-03T17:52:20.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Tien Anh\\Ecommerce\\Ecommerce.Service\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Service\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Tien Anh\\Ecommerce\\Ecommerce.Service\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "Ecommerce.Service\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T06:15:05.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IHashService.cs",
+              "DocumentMoniker": "C:\\Users\\Tien Anh\\Ecommerce\\Ecommerce.Service\\Interfaces\\IHashService.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Service\\Interfaces\\IHashService.cs",
+              "ToolTip": "C:\\Users\\Tien Anh\\Ecommerce\\Ecommerce.Service\\Interfaces\\IHashService.cs",
+              "RelativeToolTip": "Ecommerce.Service\\Interfaces\\IHashService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T06:14:54.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "JwtConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Tien Anh\\Ecommerce\\Ecommerce.Domain\\Models\\JwtConfig.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Domain\\Models\\JwtConfig.cs",
+              "ToolTip": "C:\\Users\\Tien Anh\\Ecommerce\\Ecommerce.Domain\\Models\\JwtConfig.cs",
+              "RelativeToolTip": "Ecommerce.Domain\\Models\\JwtConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T06:18:05.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserCredentials.cs",
+              "DocumentMoniker": "C:\\Users\\Tien Anh\\Ecommerce\\Ecommerce.Domain\\Models\\UserCredentials.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Domain\\Models\\UserCredentials.cs",
+              "ToolTip": "C:\\Users\\Tien Anh\\Ecommerce\\Ecommerce.Domain\\Models\\UserCredentials.cs",
+              "RelativeToolTip": "Ecommerce.Domain\\Models\\UserCredentials.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T06:14:31.368Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

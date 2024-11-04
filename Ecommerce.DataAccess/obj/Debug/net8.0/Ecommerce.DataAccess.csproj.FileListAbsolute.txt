@@ -1,0 +1,17 @@
+C:\Users\Tien Anh\Ecommerce\Ecommerce.DataAccess\bin\Debug\net8.0\Ecommerce.DataAccess.deps.json
+C:\Users\Tien Anh\Ecommerce\Ecommerce.DataAccess\bin\Debug\net8.0\Ecommerce.DataAccess.runtimeconfig.json
+C:\Users\Tien Anh\Ecommerce\Ecommerce.DataAccess\bin\Debug\net8.0\Ecommerce.DataAccess.dll
+C:\Users\Tien Anh\Ecommerce\Ecommerce.DataAccess\bin\Debug\net8.0\Ecommerce.DataAccess.pdb
+C:\Users\Tien Anh\Ecommerce\Ecommerce.DataAccess\bin\Debug\net8.0\Ecommerce.Domain.dll
+C:\Users\Tien Anh\Ecommerce\Ecommerce.DataAccess\bin\Debug\net8.0\Ecommerce.Domain.pdb
+C:\Users\Tien Anh\Ecommerce\Ecommerce.DataAccess\obj\Debug\net8.0\Ecommerce.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Tien Anh\Ecommerce\Ecommerce.DataAccess\obj\Debug\net8.0\Ecommerce.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tien Anh\Ecommerce\Ecommerce.DataAccess\obj\Debug\net8.0\Ecommerce.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Tien Anh\Ecommerce\Ecommerce.DataAccess\obj\Debug\net8.0\Ecommerce.DataAccess.AssemblyInfo.cs
+C:\Users\Tien Anh\Ecommerce\Ecommerce.DataAccess\obj\Debug\net8.0\Ecommerce.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Tien Anh\Ecommerce\Ecommerce.DataAccess\obj\Debug\net8.0\Ecommerc.06B1919B.Up2Date
+C:\Users\Tien Anh\Ecommerce\Ecommerce.DataAccess\obj\Debug\net8.0\Ecommerce.DataAccess.dll
+C:\Users\Tien Anh\Ecommerce\Ecommerce.DataAccess\obj\Debug\net8.0\refint\Ecommerce.DataAccess.dll
+C:\Users\Tien Anh\Ecommerce\Ecommerce.DataAccess\obj\Debug\net8.0\Ecommerce.DataAccess.pdb
+C:\Users\Tien Anh\Ecommerce\Ecommerce.DataAccess\obj\Debug\net8.0\Ecommerce.DataAccess.genruntimeconfig.cache
+C:\Users\Tien Anh\Ecommerce\Ecommerce.DataAccess\obj\Debug\net8.0\ref\Ecommerce.DataAccess.dll
